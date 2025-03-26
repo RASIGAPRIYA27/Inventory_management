@@ -16,20 +16,4 @@
 | Tailwind CSS           | JWT Authentication   | API Gateway          |
 | React Hook Form        | Redis Caching        | Amplify Hosting      |
 
-inventory-management/
-├── client/               # Next.js application
-│   ├── app/                # App router directory
-│   ├── components/         # Reusable components
-│   ├── lib/                # Redux store and API slices
-│   ├── public/             # Static assets
-│   └── styles/             # Tailwind/CSS files
-│
-├── server/                # Node.js server
-│   ├── prisma/             # Prisma schema and migrations
-│   ├── routes/             # API routes
-│   ├── services/           # Business logic
-│   └── utils/              # Helper functions
-│
-├── .github/                # CI/CD workflows
-├── docs/                   # Documentation
-└── scripts/                # Deployment scripts
+
